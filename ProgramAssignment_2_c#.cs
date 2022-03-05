@@ -10,7 +10,7 @@ namespace ConsoleApp1
     public class Router
     {
         public int Xvalue;
-        public int Xtime
+        public int Xtime   //deleted it 
         {
             get { return Xvalue; }
             set { Xvalue = value; }
